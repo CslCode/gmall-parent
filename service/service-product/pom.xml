@@ -11,5 +11,12 @@
 
     <artifactId>service-product</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>net.oschina.zcx7878</groupId>
+            <artifactId>fastdfs-client-java</artifactId>
+            <version>${fastdfs.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>
